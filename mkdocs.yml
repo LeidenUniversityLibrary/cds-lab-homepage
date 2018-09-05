@@ -1,0 +1,8 @@
+site_name: CDS Lab
+theme:
+  name: material
+  font: false
+
+markdown_extensions:
+  - admonition
+  - codehilite
