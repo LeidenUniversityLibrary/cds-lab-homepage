@@ -23,3 +23,11 @@ Leiden University Libraries have a great collection of manuscripts, but it is in
 The CDS hosts a slightly modified version of the [FromThePage platform](https://fromthepage.com). FromThePage is an open-source server application that allows researchers and institutions to let people help transcribe (and translate) works on a page-by-page basis.
 
 FromThePage is used in various projects. The source code for our version is openly available at GitHub: [bencomp/fromthepage](https://github.com/bencomp/fromthepage).
+
+## Mirador demonstrations
+
+Early demonstrations of IIIF using Mirador are hosted on [DigitalScholarship.nl](https://digitalscholarship.nl/view/).
+
+## UBL maps in Geoplaza
+
+Leiden University Libraries have collaborated with the Vrije Universiteit Amsterdam to show [51 maps from our collections in the Geoplaza portal](https://geoplaza.labs.vu.nl/catalog?f%5bdct_provenance_s%5d%5b%5d=Universitaire+Bibliotheken+Leiden).
