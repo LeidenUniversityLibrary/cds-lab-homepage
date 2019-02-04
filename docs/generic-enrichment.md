@@ -20,7 +20,7 @@ Who else might be interested in the results of your enrichment activities? What 
 
 What is your source material? Where will you get it? Who owns the rights to the source materials?
 
-Objects may be textual, visual, audible or of a different nature. The type(s) of your source materials will influence the way you work with them, starting with how you retrieve them.
+Objects may be textual, visual, audible or of a different nature – or of a combination of 'natures'. The type(s) of your source materials will influence the way you work with them, starting with how you retrieve them.
 
 If the objects you want to collect and enrich are available online, published by trustworthy archives or libraries, accessible via persistent identifiers and stable and open protocols, there is no need to create copies on your own computer. Copying such objects may even make your research harder, as you have to pay for the extra storage, manage backups[^1], find a way to share 'your' copies with colleagues and make sure your enrichments can be linked to the originals.
 
