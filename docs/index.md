@@ -1,8 +1,10 @@
-# Welcome to the Centre for Digital Scholarship's Lab
+---
+title: Welcome to the Centre for Digital Scholarship's Lab
+---
 
 This server hosts proofs of concept that the <a href="https://www.library.universiteitleiden.nl/research-and-publishing/centre-for-digital-scholarship" target="_blank">Centre for Digital Scholarship</a> (have) created in collaboration with researchers.
 
-# Current projects
+## Current projects
 
 These are some example projects the CDS is working on.
 
