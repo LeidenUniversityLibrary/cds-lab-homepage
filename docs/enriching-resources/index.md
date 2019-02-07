@@ -10,6 +10,23 @@ It is not meant as a template for projects that you fill out like a form, but yo
 
 For any questions, please get in touch with the Centre for Digital Scholarship.
 
+# Definitions of terms
+
+## What are digital objects?
+
+Digital objects are artefacts in our digital collections. They may be digital representations of 'analog' objects or born-digital materials. The digital objects that are subject to these policies are the ones that Libraries have taken custodianship over.
+
+## What is 'enriching digital objects'?
+
+Enriching a digital object means putting the object in context(s) by adding information or linking to related information or objects to provide more value to the object's users.
+
+Examples of enriching objects are:
+
+- providing a description of the object's contents so that it can be better indexed or understood
+- providing a link to a similar object
+- provide provenance analysis
+- transcribe text in images
+
 # Goals of enrichment
 
 As with any project, you should first understand the goals of the project. What questions are you trying to answer? How is enriching objects helping you answer your questions? Will you be working with a few example objects or are you trying to generalise by working with a large set of objects?
