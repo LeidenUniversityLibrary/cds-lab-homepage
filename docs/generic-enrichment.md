@@ -37,8 +37,43 @@ Depending on the type of objects you are using, different kinds of enrichments c
 What are the parts to each of your objects? Files, metadata files, database rows?
 
 What do you want to do with your objects? Add descriptions of the whole object, or parts of the object? Do you want to link to other objects in the same collection, or link to external objects or concepts?
+What are the parts to each of your enrichments? A collection name, general description, tags, contextual information? Do you put them in a Word document, HTML files, a spreadsheet, a database, an annotation service?
 
-## System components
+## System components and procedures
 
-## Storage
+To do the actual enrichment, you will need a system. In the past, perhaps you would take structured notes on index cards and share the cards with researchers that you know. Nowadays, you may want to select parts of an image and fill a few fields in a form right next to the image and allow non-expert *citizen scientists* to help you (with automatic validation of their input). Your goals, sources and models all influence how the system should be configured and what procedures you need to have in place.
 
+Keep in mind that systems and system components need maintenance and usually cost money. This may mean that systems or components that you use during the project are not necessarily available (let alone maintained) after the project, unless you can afford keeping them available using other funds and/or organisational infrastructure. You should always ensure that any enrichments you create in your project can be used outside the system(s) you use to create them.
+
+### Procedures
+
+- collecting sources not available online
+- basic description of sources
+- creating enrichments
+- updating enrichments
+- authorising users (researchers, non-experts)
+- training humans
+- training machines
+- discussing enrichments
+- validating enrichments
+- presenting enrichments
+
+### System components
+
+- Content Management System
+    - authentication and authorisation of users
+    - publication of sources with basic descriptions
+    - publication of tutorials
+- annotation tool(s)
+- machine learning tool(s)
+- data conversion tools
+- data import tools
+- data management / archiving system
+
+## Storage and publication
+
+As mentioned above, you should ensure your data is stored safely to prevent loss and unauthorised access and changes.
+Ideally your enrichments are available via standard interfaces and protocols as soon as possible after their creation (and possibly validation).
+Even better is when they are available for the long term with persistent identifiers that resolve to the latest location when the data of your enrichment are relocated to other computers.
+
+You should archive your enrichments in a research data archive at least once, at the end of the project, or when the enrichments are finished. This ensures that nothing is lost, even if the system is shut down at the end of the project. It also allows you to cite the data as a dataset.
