@@ -8,4 +8,5 @@ markdown_extensions:
   - codehilite
   - toc:
       permalink: true
+      baselevel: 2
   - footnotes

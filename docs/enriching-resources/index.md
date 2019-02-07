@@ -10,13 +10,13 @@ It is not meant as a template for projects that you fill out like a form, but yo
 
 For any questions, please get in touch with the Centre for Digital Scholarship.
 
-## Goals of enrichment
+# Goals of enrichment
 
 As with any project, you should first understand the goals of the project. What questions are you trying to answer? How is enriching objects helping you answer your questions? Will you be working with a few example objects or are you trying to generalise by working with a large set of objects?
 
 Who else might be interested in the results of your enrichment activities? What other projects have inspired you to try this?
 
-## Sources: objects to enrich
+# Sources: objects to enrich
 
 What is your source material? Where will you get it? Who owns the rights to the source materials?
 
@@ -31,7 +31,7 @@ It is a different story when the originals are not digitised, only available wit
 In some cases it is okay to create digital representations of objects yourself and use those in the project. Note that you may need approval from the owner or holding institute. Also, you will also need to describe the representations, keep links to the originals through identifiers and arrange for storage.
 Creating representations of objects should be done in a very consistent manner, following best practices for the specific types of objects and the goals of the project.  
 
-## Models for objects and enrichments
+# Models for objects and enrichments
 
 Depending on the type of objects you are using, different kinds of enrichments can be used. The way you refer to (fragments of) objects varies as well.
 What are the parts to each of your objects? Files, metadata files, database rows?
@@ -39,13 +39,13 @@ What are the parts to each of your objects? Files, metadata files, database rows
 What do you want to do with your objects? Add descriptions of the whole object, or parts of the object? Do you want to link to other objects in the same collection, or link to external objects or concepts?
 What are the parts to each of your enrichments? A collection name, general description, tags, contextual information? Do you put them in a Word document, HTML files, a spreadsheet, a database, an annotation service?
 
-## System components and procedures
+# System components and procedures
 
 To do the actual enrichment, you will need a system. In the past, perhaps you would take structured notes on index cards and share the cards with researchers that you know. Nowadays, you may want to select parts of an image and fill a few fields in a form right next to the image and allow non-expert *citizen scientists* to help you (with automatic validation of their input). Your goals, sources and models all influence how the system should be configured and what procedures you need to have in place.
 
 Keep in mind that systems and system components need maintenance and usually cost money. This may mean that systems or components that you use during the project are not necessarily available (let alone maintained) after the project, unless you can afford keeping them available using other funds and/or organisational infrastructure. You should always ensure that any enrichments you create in your project can be used outside the system(s) you use to create them.
 
-### Procedures
+## Procedures
 
 - collecting sources not available online
 - basic description of sources
@@ -58,7 +58,7 @@ Keep in mind that systems and system components need maintenance and usually cos
 - validating enrichments
 - presenting enrichments
 
-### System components
+## System components
 
 - Content Management System
     - authentication and authorisation of users
@@ -70,7 +70,7 @@ Keep in mind that systems and system components need maintenance and usually cos
 - data import tools
 - data management / archiving system
 
-## Storage and publication
+# Storage and publication
 
 As mentioned above, you should ensure your data is stored safely to prevent loss and unauthorised access and changes.
 Ideally your enrichments are available via standard interfaces and protocols as soon as possible after their creation (and possibly validation).
