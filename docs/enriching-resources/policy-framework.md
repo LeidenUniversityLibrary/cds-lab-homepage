@@ -22,6 +22,8 @@ See the [definitions of objects and enriching](index.md#definitions-of-terms) be
 
 # Policies
 
+Existing policy: [Digitaal Erfgoed Referentiearchitectuur (DERA)](https://www.netwerkdigitaalerfgoed.nl/wp-content/uploads/2018/11/181107-DERA2.0_def.pdf)
+
 ## Links between objects and enrichments
 
 Define object bounds and types of enrichments. Objects may consist of various components, like high-resolution master image(s), thumbnail(s) and transcriptions of the text in the object.
@@ -57,6 +59,11 @@ Annotations can have one or more bodies, or none (for specific motivations). If 
         - HTML fragment
         - plain text
 
+### Example: TEI file as external body
+
+When you transcribe text from manuscripts, you may want to use the TEI guidelines and markup.
+
+### Example: HTML file as external body
 
 ## Storage and access
 
@@ -79,36 +86,3 @@ Who can add, edit and delete annotations? How do you authenticate and authorise 
 
 What kind of content may be added in annotations? How will you monitor whether users adhere to this? What do you do in case of violations of copyright laws or content policies? Who decides what is allowed and who makes the final decision in case of a dispute over contents of annotations?
 
-# Aspecten in het advies
-
-Hebben we eenzelfde beeld van waar onze collecties uit bestaan? Komen de modellen voor boeken, AV-objecten een beetje overeen?
-
-soorten objecten
-
-bij gedigitaliseerde objecten: links met analoge originelen
-
-Modellen voor objecten en collecties,
-
-Collectieobjecten en entiteiten gelinkt aan, maar buiten de collectie (mensen, concepten, etc.)
-
-Toegangsmanieren: bulkdownload, API's, geen toegang maar code naar data brengen
-
-Opslag voor verrijkingen
-
-"Ondersteunde" modellen voor verrijkingen en diensten voor zulke verrijkingen
-
-Tijdspad, stappen, pilots
-
-# Andere initiatieven
-
-[Collections as Data](https://collectionsasdata.github.io/)
-
-FAIR – UvA-idee "FAIR Collections"
-
-NDE, DERA
-
-UBL-KB-pilot IIIF
-
-See Zotero collection "Collection Enrichment"
-
-OAIS object model, PROV model.
