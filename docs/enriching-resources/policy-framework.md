@@ -45,7 +45,13 @@ Use standards for annotations, like the Web Annotation Framework.
     - CSV + CSV metadata
     - JSON-LD
     - Turtle
+    - RDFa
 - Nanopublications
+- other data formats
+    - Hypothes.is JSON
+    - brat stand-off format
+    - TEI
+    - [VGG Image Annotator](https://gitlab.com/vgg/via) format (JSON or CSV)
 
 ## Bodies of annotations
 
@@ -62,8 +68,11 @@ Annotations can have one or more bodies, or none (for specific motivations). If 
 ### Example: TEI file as external body
 
 When you transcribe text from manuscripts, you may want to use the TEI guidelines and markup.
+You can refer to (fragments of) external TEI files as the body of annotations.
 
 ### Example: HTML file as external body
+
+Many documents on the Web are available in HTML format. You can refer to (fragments of) HTML files as the body of annotations.
 
 ## Storage and access
 
