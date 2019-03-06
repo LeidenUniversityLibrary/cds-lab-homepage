@@ -28,14 +28,15 @@ Existing policy: [Digitaal Erfgoed Referentiearchitectuur (DERA)](https://www.ne
 
 Define object bounds and types of enrichments. Objects may consist of various components, like high-resolution master image(s), thumbnail(s) and transcriptions of the text in the object.
 
-Model enrichments as annotations
+Model enrichments as annotations directly or use an annotation to make discovering more complex external descriptions of the resource easier.
+The latter use of annotations may be useful when an enrichment is more than a single connection between two objects.
 
 ## Annotations are research data
 
 All policies for research data also apply to annotations, and hence to enrichments as well.
 
 Enrichments should (thus) be FAIR.
-Use standards for annotations, like the Web Annotation Framework.
+Use standards for annotations, like the [Web Annotation Model](https://www.w3.org/TR/annotation-model/).
 
 # Considerations
 
@@ -73,6 +74,10 @@ You can refer to (fragments of) external TEI files as the body of annotations.
 ### Example: HTML file as external body
 
 Many documents on the Web are available in HTML format. You can refer to (fragments of) HTML files as the body of annotations.
+
+## Motivation and purpose of annotations
+
+In the Web Annotation Model, motivation and purpose are used to present a reason for the annotation, thereby also explaining the nature of the relationship between the target and the body of the annotation.
 
 ## Storage and access
 
