@@ -79,6 +79,9 @@ Many documents on the Web are available in HTML format. You can refer to (fragme
 
 In the Web Annotation Model, motivation and purpose are used to present a reason for the annotation, thereby also explaining the nature of the relationship between the target and the body of the annotation.
 
+!!! note
+    The motivations and purposes defined by the Web Annotation Model are useful, but deliberately generic. They can be specialised, though any terms created for special purposes should get persistent identifiers and clear explanations for their use.
+
 ## Storage and access
 
 - Linked Data
@@ -87,6 +90,10 @@ In the Web Annotation Model, motivation and purpose are used to present a reason
 - Linked Data Fragments / Triple Pattern Fragments
 - SPARQL endpoint
 - RDF dumps in a TDR
+
+## Informing the object holder
+
+When annotations are not stored by the provider (holder) of the annotated object, they may be informed about the annotations. Some providers may provide instructions for informing them.
 
 ## Correctness
 

@@ -46,3 +46,21 @@ If using IIIF and e.g. Mirador to create and save annotations, make sure the ann
 Make sure everything has identifiers, preferably persistent identifiers (PIDs). You should use PIDs for images you annotate, and the server that stores your annotations should create PIDs for each (version of an) annotation. This allows users to connect the right versions of annotations to the right versions of images and recreate the context of the annotation at the time of its creation.
 
 [^1]: Although we say people, the main audience is researchers.
+
+# Example enrichments
+
+## Identify people in images
+
+!!! warning
+    Mind the rules for working with personal data.
+
+## Classify objects in images
+
+When you cannot or do not want to identify specific objects, but do want to say what *kind of object* they are, you can link an object *class* to (part of) an image.
+
+!!! warning
+    Understand the ethics of classifying real-world objects, including (especially) people or peoples and objects involved in disputes.
+
+## Link an image to its original
+
+If you believe an image is derived from another image, you can link them in the following way: (TODO)
