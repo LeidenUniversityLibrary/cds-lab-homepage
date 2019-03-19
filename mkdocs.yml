@@ -3,6 +3,10 @@ theme:
   name: material
   font: false
 
+plugins:
+  - search
+  - htmlproofer
+
 markdown_extensions:
   - admonition
   - codehilite
