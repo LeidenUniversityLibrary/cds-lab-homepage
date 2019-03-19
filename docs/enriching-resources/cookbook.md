@@ -25,3 +25,17 @@ When you cannot or do not want to identify specific objects, but do want to say 
 ## Link an image to its original
 
 If you believe an image is derived from another image, you can link them in the following way: (TODO)
+
+# Example workflows
+
+## Record tags for items in a spreadsheet
+
+When you want to assign a single tag to each item, put the identifier for the item the first column and the tag in the second.
+
+When you want to assign one or more tags to each item, you can either:
+
+- add a row for each combination of item and tag
+- concatenate the tags in the second column, separated by a comma, semicolon or other character that is never part of the tag
+
+!!! note
+    Spreadsheets allow data entry in very flexible ways. However, for reusability you should stick to keeping your data in a rectangular table.
