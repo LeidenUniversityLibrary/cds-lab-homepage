@@ -17,7 +17,7 @@ See the [definitions of objects and enriching](index.md#definitions-of-terms) be
 
 # Laws and regulations
 
-- GDPR
+- GDPR: see [Data protection](https://www.library.universiteitleiden.nl/research-and-publishing/datamanagement/data-protection) on the library website for some pointers
 - Copyright
 
 # Policies

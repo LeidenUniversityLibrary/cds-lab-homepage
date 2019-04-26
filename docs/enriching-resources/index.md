@@ -67,6 +67,7 @@ Keep in mind that systems and system components need maintenance and usually cos
 - collecting sources not available online
 - basic description of sources
 - creating enrichments
+- grouping enrichments in versioned datasets
 - updating enrichments
 - authorising users (researchers, non-experts)
 - training humans
@@ -89,7 +90,8 @@ Keep in mind that systems and system components need maintenance and usually cos
 
 # Storage and publication
 
-As mentioned above, you should ensure your data is stored safely to prevent loss and unauthorised access and changes.
+As mentioned above, you should ensure your data is stored safely to prevent loss and unauthorised access and changes. See [Data protection](https://www.library.universiteitleiden.nl/research-and-publishing/datamanagement/data-protection) for some pointers.
+
 Ideally your enrichments are available via standard interfaces and protocols as soon as possible after their creation (and possibly validation).
 Even better is when they are available for the long term with persistent identifiers that resolve to the latest location when the data of your enrichment are relocated to other computers.
 
