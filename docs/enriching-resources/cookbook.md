@@ -15,12 +15,25 @@ However, it is the intention of the Centre for Digital Scholarship to provide go
 !!! warning
     Mind the rules for working with personal data.
 
+Here are two ways of identifying people in images. Assuming that the abstract representation of the image is more stable and versatile than individual images, annotating the canvas is preferred.
+
+### Annotate (part of) the Canvas (preferred)
+
+1. Create a [Canvas][] for the image, if it doesn't exist yet.
+2. Annotate the part (i.e. fragment) of the Canvas with a Web Annotation with the `identifying` motivation and the URI of the person as the body.
+
+### Annotate (part of) the image directly
+
+1. Annotate the part (i.e. fragment) of the image with a Web Annotation with the `identifying` motivation and the URI of the person as the body.
+
 ## Classify objects in images
 
 When you cannot or do not want to identify specific objects, but do want to say what *kind of object* they are, you can link an object *class* to (part of) an image.
 
 !!! warning
     Understand the ethics of classifying real-world objects, including (especially) people or peoples and objects involved in disputes.
+
+Annotate the part (i.e. fragment) of the Canvas or image with a Web Annotation with the `classifying` motivation and the URI of the object as the body URI.
 
 ## Link an image to its original
 
