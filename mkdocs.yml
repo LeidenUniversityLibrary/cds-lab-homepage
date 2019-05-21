@@ -1,4 +1,5 @@
 site_name: CDS Lab
+site_url: 'https://lab.library.universiteitleiden.nl/'
 theme:
   name: material
   font: false
