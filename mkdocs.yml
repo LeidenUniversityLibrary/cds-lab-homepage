@@ -3,6 +3,7 @@ site_url: 'https://lab.library.universiteitleiden.nl/'
 theme:
   name: material
   font: false
+  favicon: 'favicon.ico'
 
 plugins:
   - search
