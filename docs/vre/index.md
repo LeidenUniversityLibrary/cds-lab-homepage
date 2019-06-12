@@ -32,4 +32,4 @@ The Centre for Digital Scholarship can help you export and convert the data so
 that it is easier to archive in a Trustworthy Digital Repository or use in
 offline analyses. Read [more about migrating data from VREs](migration.md).
 
-For example, the CDS helped with [North-Korean posters](/projects/nk-posters.md).
+For example, the CDS helped with [North-Korean posters](../projects/nk-posters.md).
