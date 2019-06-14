@@ -6,7 +6,8 @@ This document can be used as a reference for (research) projects in which (digit
 If you intend to perform these activities, you are reusing and creating data.
 Especially when you data you want to use come from cultural heritage collections, we say you are *enriching* the objects.
 Doing this properly can save you and others lots of effort and it will definitely make your research better.
-It is not meant as a template for projects that you fill out like a form, but you can use it as inspiration for writing your project proposal.
+It is not meant as a template for projects that you fill out like a form,
+but you should be able to use it as inspiration for writing your project proposal.
 
 For any questions, please get in touch with the Centre for Digital Scholarship.
 
@@ -29,9 +30,27 @@ Examples of enriching objects are:
 
 # Goals of enrichment
 
-As with any project, you should first understand the goals of the project. What questions are you trying to answer? How is enriching objects helping you answer your questions? Will you be working with a few example objects or are you trying to generalise by working with a large set of objects?
+As with any project, you should first understand the goals of the project in which you want to enrich objects.
+Think about:
 
-Who else might be interested in the results of your enrichment activities? What other projects have inspired you to try this?
+- What research questions are you trying to answer?
+- How is enriching objects helping you to answer your questions?
+
+Intuitively, you need to enrich objects because the objects themselves
+do not give you the information that helps you answer your research questions.
+
+!!! example
+    If you want to know how often a cat appears in photos in a specific collection,
+    but the metadata describing the photographs do not mention whether a cat is
+    present, you may want to collect this data. To help others with similar questions
+    and to show off your work, you could enrich the photographs by adding *cat* or
+    *no cat* as annotations. A script can then easily tally the number of photographs
+    with and without cats.
+
+Will you be working with a few example objects or are you trying to generalise by working with a large set of objects?
+
+Who else might be interested in the results of your enrichment activities?
+What other projects have inspired you to try this?
 
 # Sources: objects to enrich
 
