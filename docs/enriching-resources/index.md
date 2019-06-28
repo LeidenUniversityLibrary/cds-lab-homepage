@@ -114,4 +114,7 @@ As mentioned above, you should ensure your data is stored safely to prevent loss
 Ideally your enrichments are available via standard interfaces and protocols as soon as possible after their creation (and possibly validation).
 Even better is when they are available for the long term with persistent identifiers that resolve to the latest location when the data of your enrichment are relocated to other computers.
 
-You should archive your enrichments in a research data archive at least once, at the end of the project, or when the enrichments are finished. This ensures that nothing is lost, even if the system is shut down at the end of the project. It also allows you to cite the data as a dataset.
+You should archive your enrichments in a research data archive at least once,
+at the end of the project, or when the enrichments are finished.
+This ensures that nothing is lost, even if the system is shut down at the end of the project.
+It also allows you to cite the data as a dataset in your own publications.

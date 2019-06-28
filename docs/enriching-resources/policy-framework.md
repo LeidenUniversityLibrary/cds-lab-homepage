@@ -102,8 +102,13 @@ Annotations are RDF graphs and can include authorship information about the exte
 ## Access control
 
 Who can add, edit and delete annotations? How do you authenticate and authorise users?
+These decisions influence the integrity of your research data.
 
 ## Copyright and content policies
 
-What kind of content may be added in annotations? How will you monitor whether users adhere to this? What do you do in case of violations of copyright laws or content policies? Who decides what is allowed and who makes the final decision in case of a dispute over contents of annotations?
+What kind of content may be added in annotations? How will you monitor whether users adhere to this?
+What do you do in case of violations of copyright laws or content policies?
+Who decides what is allowed and who makes the final decision in case of a dispute over contents of annotations?
 
+The answers to these questions are perhaps more relevant to your research when you involve citizen science or crowdsourcing
+and when you cannot be sure that every contributor means well.
