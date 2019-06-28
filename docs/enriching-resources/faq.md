@@ -16,3 +16,8 @@ title: Frequently Asked Questions about enrichment
 
 ## What should I think about in my proposal?
 
+# Permissions
+
+## How can I know if I can use images for my research?
+
+## How do I ask for permission to use images?
