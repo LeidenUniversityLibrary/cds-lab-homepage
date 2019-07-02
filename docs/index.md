@@ -33,6 +33,16 @@ to let people help transcribe (and translate) works on a page-by-page basis.
 FromThePage is used in various projects. The source code for our version
 is openly available at GitHub: [bencomp/fromthepage](https://github.com/bencomp/fromthepage).
 
+## [Iran Turan](https://iranturan.leiden.edu/)
+
+The CDS set up Omeka Classic to support the [Turks, texts and territory project][iranproject].
+
+[iranproject]: https://www.universiteitleiden.nl/en/research/research-projects/humanities/turks-texts-and-territory
+
+## [Soldaat in Indonesië](https://indonesie.universiteitleiden.nl/start.php)
+
+Online research environment for working with ego documents written by soldiers in Indonesia.
+
 ## Mirador demonstrations
 
 Early demonstrations of IIIF using Mirador are hosted on [DigitalScholarship.nl](https://digitalscholarship.nl/view/).
