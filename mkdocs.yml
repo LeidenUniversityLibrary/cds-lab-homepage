@@ -1,5 +1,6 @@
 site_name: CDS Lab
 site_url: 'https://lab.library.universiteitleiden.nl/'
+remote_branch: rendered
 theme:
   name: material
   font: false
