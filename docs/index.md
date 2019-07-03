@@ -23,15 +23,15 @@ but it is infeasible to use many of them for education, because they
 are rare and often fragile. This platform is being developed to allow
 online exploration of the manuscripts by theme.
 
-## [FromThePage transcription platform](transcription/)
+## [FromThePage transcription platform](https://transcription.digitalscholarship.nl/)
 
-The CDS hosts a slightly modified version of the
+The CDS hosts an instance of the
 [FromThePage platform](https://fromthepage.com). FromThePage is an
 open-source server application that allows researchers and institutions
 to let people help transcribe (and translate) works on a page-by-page basis.
 
-FromThePage is used in various projects. The source code for our version
-is openly available at GitHub: [bencomp/fromthepage](https://github.com/bencomp/fromthepage).
+FromThePage is used in various projects. The source code for FromThePage
+is openly available at GitHub: [benwbrum/fromthepage](https://github.com/benwbrum/fromthepage).
 
 ## [Iran Turan](https://iranturan.leiden.edu/)
 
