@@ -21,7 +21,7 @@ Digital objects are artefacts in our digital collections. They may be digital re
 
 Enriching a digital object means putting the object in context(s) by adding information or linking to related information or objects to provide more value to the object's users.
 
-Examples of enriching objects are:
+Enriching an object, depending on your goals, could include:
 
 - providing a description of the object's contents so that it can be better indexed or understood
 - providing a link to a similar object
@@ -36,7 +36,7 @@ Think about:
 - What research questions are you trying to answer?
 - How is enriching objects helping you to answer your questions?
 
-Intuitively, you need to enrich objects because the objects themselves
+Intuitively, you need to enrich objects because the objects themselves and existing descriptions
 do not give you the information that helps you answer your research questions.
 
 !!! example
@@ -44,7 +44,8 @@ do not give you the information that helps you answer your research questions.
     but the metadata describing the photographs do not mention whether a cat is
     present, you may want to collect this data. To help others with similar questions
     and to show off your work, you could enrich the photographs by adding *cat* or
-    *no cat* as annotations. A script can then easily tally the number of photographs
+    *no cat* as annotations. If you create these annotations in a standardised, digital
+    way, a script can then easily tally the number of photographs
     with and without cats.
 
 Will you be working with a few example objects or are you trying to generalise by working with a large set of objects?
@@ -77,9 +78,19 @@ What are the parts to each of your enrichments? A collection name, general descr
 
 # System components and procedures
 
-To do the actual enrichment, you will need a system. In the past, perhaps you would take structured notes on index cards and share the cards with researchers that you know. Nowadays, you may want to select parts of an image and fill a few fields in a form right next to the image and allow non-expert *citizen scientists* to help you (with automatic validation of their input). Your goals, sources and models all influence how the system should be configured and what procedures you need to have in place.
+To perform the actual enrichment, you will need a system – software that helps you create and
+store enrichments and procedures for working with it.
+In the past, perhaps you would take structured notes on index cards and share the cards with researchers that you know.
+Nowadays, you may want to select parts of an image and fill a few fields in a form right next to the image and
+allow non-expert *citizen scientists* to help you (with automatic validation of their input).
+Your goals, sources and models all influence how the system should be configured and what procedures you need to have in place.
 
-Keep in mind that systems and system components need maintenance and usually cost money. This may mean that systems or components that you use during the project are not necessarily available (let alone maintained) after the project, unless you can afford keeping them available using other funds and/or organisational infrastructure. You should always ensure that any enrichments you create in your project can be used outside the system(s) you use to create them.
+Keep in mind that systems and system components need maintenance and usually cost money.
+This may mean that systems or components that you use during the project are not necessarily
+available (let alone maintained) after the project, unless you can afford keeping them available
+using other funds and/or organisational infrastructure.
+You should always ensure that any enrichments you create in your project can be used outside
+the system(s) you use to create them.
 
 ## Procedures
 
