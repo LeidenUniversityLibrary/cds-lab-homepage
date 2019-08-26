@@ -2,6 +2,24 @@
 title: Generic guidance for enrichment projects
 ---
 
+Are you interested in 'doing something' with digital artefacts from (cultural) heritage institutions?
+Do you want to collect, describe, annotate or present them in a certain way, as part of your research
+or for any other purpose?
+Then this guide may be for you.
+
+This guide aims to help researchers *plan* and *execute* projects that include any or all of the above activities.
+It is (being) written by the Centre for Digital Scholarship, who help researchers at Leiden University
+use digital data, manage research data and publish in Open Access. We consider enriching objects to be
+both *working with digital data* and *creating and managing research data*.
+
+The guide covers:
+
+- definitions of (digital) objects and enriching objects
+- goals of enriching objects
+- sources of objects to enrich
+- what kinds of enrichments exist
+- where to store your enrichments and how to share them
+
 This document can be used as a reference for (research) projects in which (digital) objects are collected, described, annotated and presented.
 If you intend to perform these activities, you are reusing and creating data.
 Especially when you data you want to use come from cultural heritage collections, we say you are *enriching* the objects.
@@ -78,7 +96,7 @@ What are the parts to each of your enrichments? A collection name, general descr
 
 # System components and procedures
 
-To perform the actual enrichment, you will need a system – software that helps you create and
+To perform the actual enrichment, you will need a method – tools (e.g. software) that help you create and
 store enrichments and procedures for working with it.
 In the past, perhaps you would take structured notes on index cards and share the cards with researchers that you know.
 Nowadays, you may want to select parts of an image and fill a few fields in a form right next to the image and
@@ -123,7 +141,8 @@ the system(s) you use to create them.
 As mentioned above, you should ensure your data is stored safely to prevent loss and unauthorised access and changes. See [Data protection](https://www.library.universiteitleiden.nl/research-and-publishing/datamanagement/data-protection) for some pointers.
 
 Ideally your enrichments are available via standard interfaces and protocols as soon as possible after their creation (and possibly validation).
-Even better is when they are available for the long term with persistent identifiers that resolve to the latest location when the data of your enrichment are relocated to other computers.
+Even better is when they are available for the long term with *persistent identifiers*
+that resolve to the latest location when the data of your enrichment are relocated to other computers.
 
 You should archive your enrichments in a research data archive at least once,
 at the end of the project, or when the enrichments are finished.
