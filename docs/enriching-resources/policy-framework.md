@@ -22,7 +22,12 @@ See the [definitions of objects and enriching](index.md#definitions-of-terms) be
 
 # Policies
 
-Existing policy: [Digitaal Erfgoed Referentiearchitectuur (DERA)](https://www.netwerkdigitaalerfgoed.nl/wp-content/uploads/2018/11/181107-DERA2.0_def.pdf)
+[Digitaal Erfgoed Referentiearchitectuur (DERA)][dera] defines four operational goals to implement its strategic goal,
+the third of which is 'Users can add new or external information when necessary.'
+This reference architecture is aimed at cultural heritage institutions, but this specific goal
+is clearly connected to our aim – to allow people to enrich digital objects.
+
+[dera]: https://www.netwerkdigitaalerfgoed.nl/wp-content/uploads/2018/11/181107-DERA2.0_def.pdf
 
 ## Links between objects and enrichments
 
