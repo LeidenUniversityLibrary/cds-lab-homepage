@@ -30,7 +30,7 @@ have already created data models to describe books, people, architecture
 and art, et cetera. However, not everyone describes every item in the same
 way, so you may need to extend or adapt an existing data model.
 
-There are too many possible models to list here, so we link to some
+There are too many possible models to list here, so we only link to some
 databases that provide overviews of existing models:
 
 - [Linked Open Vocabularies (LOV)](https://lov.linkeddata.es/dataset/lov/) indexes ontologies and RDF Schemas

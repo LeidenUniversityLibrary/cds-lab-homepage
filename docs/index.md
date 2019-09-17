@@ -45,6 +45,11 @@ The CDS set up Omeka Classic to support the [Turks, texts and territory project]
 
 Online research environment for working with ego documents written by soldiers in Indonesia.
 
+## [Jan Wolkers puzzles](https://iiif.universiteitleiden.nl/view/puzzles.html)
+
+The CDS used existing IIIF software to make a few of Jan Wolkers's works available as puzzles.
+Read more about this on the short [project page](projects/wolkers-puzzles.md).
+
 ## Mirador demonstrations
 
 Early demonstrations of IIIF using Mirador are hosted on [DigitalScholarship.nl](https://digitalscholarship.nl/view/).
