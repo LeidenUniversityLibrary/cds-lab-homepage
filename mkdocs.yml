@@ -36,3 +36,4 @@ nav:
   - 'Virtual Research Environments':
     - 'vre/index.md'
     - 'vre/migration.md'
+  - 'purl.md'
