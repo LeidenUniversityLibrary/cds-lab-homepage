@@ -11,6 +11,7 @@ These are some example projects the CDS is working on.
 ## [Abnormal Hieratic Global Portal](abnormalhieratic/)
 
 Community resource for studying Abnormal Hieratic manuscripts, developed in cooperation with the Faculty of Humanities.
+The [project page](projects/abnormal-hieratic.md) has more information on the technical components.
 
 ## [Lydgate](lydgate/)
 
@@ -52,7 +53,7 @@ Read more about this on the short [project page](projects/wolkers-puzzles.md).
 
 ## Mirador demonstrations
 
-Early demonstrations of IIIF using Mirador are hosted on [DigitalScholarship.nl](https://digitalscholarship.nl/view/).
+Demonstrations of IIIF functionality using Mirador are hosted at [IIIF demonstrations](iiif-demo/).
 
 ## UBL maps in Geoplaza
 
