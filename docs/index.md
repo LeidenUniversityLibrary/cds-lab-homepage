@@ -46,6 +46,11 @@ The CDS set up Omeka Classic to support the [Turks, texts and territory project]
 
 Online research environment for working with ego documents written by soldiers in Indonesia.
 
+## [IIIF portal](https://iiif.universiteitleiden.nl/)
+
+The International Image Interoperability Framework (IIIF) portal for Leiden University aims to help
+users access the UBL digital collections via the various IIIF APIs and services based on the IIIF.
+
 ## [Jan Wolkers puzzles](https://iiif.universiteitleiden.nl/view/puzzles.html)
 
 The CDS used existing IIIF software to make a few of Jan Wolkers's works available as puzzles.
