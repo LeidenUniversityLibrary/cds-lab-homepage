@@ -4,17 +4,34 @@ title: Virtual Research Environments
 
 # What is a Virtual Research Environment (VRE)?
 
-See the [Libraries' website on VREs]() to learn more about VREs and what
+See the [Libraries' website on VREs][vre] to learn more about VREs and what
 Leiden University Libraries can do for you.
+
+[vre]: https://www.library.universiteitleiden.nl/research-and-publishing/collaboration-tools
 
 ## Types of VREs
 
-SharePoint
+Below are three types of VRE, although many more are available. VRE systems are usually
+tailored to tasks for specific research, although the generic ones below can be customised for
+many fields.
 
-Omeka S
+### SharePoint
 
-Nodegoat
+[Library-managed VREs][vre] are based on Microsoft SharePoint. They allow collaborating on
+(office) documents, sharing files, and storing information in (a collection of interlinked)
+lists, among other features. The lists functionality is like a database and can be accessed
+from Microsoft Access and Microsoft Excel.
 
+### Omeka S
+
+Omeka S is an open-source content management system for images and other content. It supports IIIF sources
+and exports data about items as RDF. The CDS is currently testing Omeka S.
+
+### Nodegoat
+
+Nodegoat is an open-source online database system. The CDS does not currently use or support
+Nodegoat, but it is on our radar.
+The hosted service provided by the creators is free for individual researchers.
 
 # Migrating from a SharePoint VRE
 
