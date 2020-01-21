@@ -9,25 +9,25 @@ Leiden University Libraries can do for you.
 
 [vre]: https://www.library.universiteitleiden.nl/research-and-publishing/collaboration-tools
 
-## Types of VREs
+# Types of VREs
 
 Below are three types of VRE, although many more are available. VRE systems are usually
 tailored to tasks for specific research, although the generic ones below can be customised for
 many fields.
 
-### SharePoint
+## SharePoint
 
 [Library-managed VREs][vre] are based on Microsoft SharePoint. They allow collaborating on
 (office) documents, sharing files, and storing information in (a collection of interlinked)
 lists, among other features. The lists functionality is like a database and can be accessed
 from Microsoft Access and Microsoft Excel.
 
-### Omeka S
+## Omeka S
 
 Omeka S is an open-source content management system for images and other content. It supports IIIF sources
 and exports data about items as RDF. The CDS is currently testing Omeka S.
 
-### Nodegoat
+## Nodegoat
 
 Nodegoat is an open-source online database system. The CDS does not currently use or support
 Nodegoat, but it is on our radar.
