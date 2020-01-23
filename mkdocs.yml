@@ -25,6 +25,8 @@ nav:
     - 'projects/nk-posters.md'
     - 'projects/abnormal-hieratic.md'
     - 'projects/wolkers-puzzles.md'
+  - 'Working with data':
+    - 'working-with-data/index.md'
   - 'Enriching Resources':
     - 'working-with-data/enriching-resources/index.md'
     - 'working-with-data/enriching-resources/policy-framework.md'
