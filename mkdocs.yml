@@ -27,6 +27,13 @@ nav:
     - 'projects/wolkers-puzzles.md'
   - 'Working with data':
     - 'working-with-data/index.md'
+    - 'Analysing data':
+      - 'working-with-data/analysing-data/index.md'
+      - 'working-with-data/analysing-data/twitter.md'
+    - 'Processing data':
+      - 'working-with-data/processing-data/index.md'
+      - 'working-with-data/processing-data/ocr.md'
+      - 'working-with-data/processing-data/htr.md'
   - 'Enriching Resources':
     - 'working-with-data/enriching-resources/index.md'
     - 'working-with-data/enriching-resources/policy-framework.md'
