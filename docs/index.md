@@ -32,7 +32,10 @@ but it is infeasible to use many of them for education, because they
 are rare and often fragile. This platform is being developed to allow
 online exploration of the manuscripts by theme.
 
-*Note:* while this website is being developed, we require a password to get to the website.
+More details are available on the [project page](projects/digmanclass.md).
+
+!!! note
+    While this website is being developed, we require a password to get to the website.
 
 ## [FromThePage transcription platform](https://transcription.digitalscholarship.nl/)
 
