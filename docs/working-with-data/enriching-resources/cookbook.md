@@ -13,7 +13,7 @@ However, it is the intention of the Centre for Digital Scholarship to provide go
 ## Identify people in images
 
 !!! warning
-    Mind the rules for working with personal data.
+    Mind the rules for working with data about people.
 
 Here are two ways of identifying people in images. Assuming that the abstract representation of the image is more stable and versatile than individual images, annotating the canvas is preferred.
 

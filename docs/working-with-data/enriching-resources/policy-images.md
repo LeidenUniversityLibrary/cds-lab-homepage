@@ -1,11 +1,11 @@
 ---
 title: Policies for enriching images
 status: draft
-date: 2018-12-20
 author: Ben Companjen
 ---
 
-**THIS IS A VERY ROUGH DRAFT; IT MAY NEVER BE ACTUAL POLICY.**
+!!! warning
+    **THIS IS A VERY ROUGH DRAFT; IT MAY NEVER BE ACTUAL POLICY.**
 
 # Introduction
 
@@ -40,7 +40,7 @@ The tool(s) you use to annotate should help you keep track of your own work so t
 Naturally, if you only make the annotations of others available, you should include
 the identities of the original creators.
 
-## Keep provenance and licenses of source images
+## Record provenance and licenses of source images
 
 Explain how the set of images you selected for enrichment was created.
 This helps people assess how complete your set is and how representative it is among all similar images.

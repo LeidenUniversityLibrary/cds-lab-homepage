@@ -27,7 +27,9 @@ Doing this properly can save you and others lots of effort and it will definitel
 It is not meant as a template for projects that you fill out like a form,
 but you should be able to use it as inspiration for writing your project proposal.
 
-For any questions, please get in touch with the Centre for Digital Scholarship.
+For any questions, please get in touch with the [Centre for Digital Scholarship][cds].
+
+[cds]: https://www.library.universiteitleiden.nl/research-and-publishing/centre-for-digital-scholarship
 
 # Definitions of terms
 
@@ -97,8 +99,8 @@ What are the parts to each of your enrichments? A collection name, general descr
 # System components and procedures
 
 To perform the actual enrichment, you will need a method – tools (e.g. software) that help you create and
-store enrichments and procedures for working with it.
-In the past, perhaps you would take structured notes on index cards and share the cards with researchers that you know.
+store enrichments and procedures for working with the tools.
+In the past, perhaps you would take structured notes on index cards and share (copies of) the cards with researchers that you know.
 Nowadays, you may want to select parts of an image and fill a few fields in a form right next to the image and
 allow non-expert *citizen scientists* to help you (with automatic validation of their input).
 Your goals, sources and models all influence how the system should be configured and what procedures you need to have in place.
