@@ -6,7 +6,7 @@ Recognise handwritten text in images
 
 # Transkribus
 
-Free to use
+Free to use, although this may change in the future.
 
 !!! note
     Transkribus needs to store your images on their servers for analysis and HTR to work.
