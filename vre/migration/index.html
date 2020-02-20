@@ -38,7 +38,7 @@
     
     
       
-        <title>The process of migration</title>
+        <title>Migrating or exporting data from a VRE</title>
       
     
     
@@ -54,6 +54,8 @@
     
     <link rel="stylesheet" href="../../assets/fonts/material-icons.css">
     
+    
+      <link rel="stylesheet" href="../../css/extra.css">
     
     
       
@@ -98,7 +100,7 @@
               CDS Lab
             </span>
             <span class="md-header-nav__topic">
-              The process of migration
+              Migrating or exporting data from a VRE
             </span>
           
         </div>
@@ -233,6 +235,18 @@
 
 
   <li class="md-nav__item">
+    <a href="../../projects/digmanclass/" title="Digital Manuscripts in the Classroom" class="md-nav__link">
+      Digital Manuscripts in the Classroom
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
     <a href="../../projects/wolkers-puzzles/" title="Jan Wolkers puzzles" class="md-nav__link">
       Jan Wolkers puzzles
     </a>
@@ -272,6 +286,114 @@
     <a href="../../working-with-data/" title="Working with (digital) data" class="md-nav__link">
       Working with (digital) data
     </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-3-2" type="checkbox" id="nav-3-2">
+    
+    <label class="md-nav__link" for="nav-3-2">
+      Analysing data
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-3-2">
+        Analysing data
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../working-with-data/analysing-data/" title="Analysing data" class="md-nav__link">
+      Analysing data
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../working-with-data/analysing-data/twitter/" title="Analysing Twitter data" class="md-nav__link">
+      Analysing Twitter data
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-3-3" type="checkbox" id="nav-3-3">
+    
+    <label class="md-nav__link" for="nav-3-3">
+      Processing data
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-3-3">
+        Processing data
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../working-with-data/processing-data/" title="Processing data" class="md-nav__link">
+      Processing data
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../working-with-data/processing-data/ocr/" title="Optical character recognition (OCR)" class="md-nav__link">
+      Optical character recognition (OCR)
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../working-with-data/processing-data/htr/" title="Handwritten-text recognition (HTR)" class="md-nav__link">
+      Handwritten-text recognition (HTR)
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
   </li>
 
         
@@ -434,11 +556,11 @@
     
     
       <label class="md-nav__link md-nav__link--active" for="__toc">
-        The process of migration
+        Migrating or exporting data from a VRE
       </label>
     
-    <a href="./" title="The process of migration" class="md-nav__link md-nav__link--active">
-      The process of migration
+    <a href="./" title="Migrating or exporting data from a VRE" class="md-nav__link md-nav__link--active">
+      Migrating or exporting data from a VRE
     </a>
     
       
@@ -580,15 +702,22 @@
           <div class="md-content">
             <article class="md-content__inner md-typeset">
               
+    
+        <div class="warning-draft"><em>This page is a draft.</em> 
+            Last updated: 2020-02-20
+            </div>
+    
+    
                 
                 
-                  <h1>The process of migration</h1>
+                  <h1>Migrating or exporting data from a VRE</h1>
                 
                 <p>This page describes the general process of moving data out of SharePoint
 and into a data model and data format that can be used in different
 contexts. In general, these converted data can be readily stored in a
 data archive.</p>
-<p>Contact the CDS for information.</p>
+<p>If you have a SharePoint VRE and would like to export your data, please
+<a href="https://www.library.universiteitleiden.nl/research-and-publishing/centre-for-digital-scholarship">contact the Centre for Digital Scholarship</a> for information.</p>
 <h2 id="data-modelling">Data modelling<a class="headerlink" href="#data-modelling" title="Permanent link">&para;</a></h2>
 <p>Unless you only used the VRE for sharing files that are read and edited
 outside the VRE, you probably have information that is managed directly
@@ -599,10 +728,11 @@ interoperable with existing datasets.</p>
 <p>In many cases, we will meet several times
 to discuss what your data describe and how data points are interrelated.</p>
 <h2 id="find-models-to-map-to">Find models to map to<a class="headerlink" href="#find-models-to-map-to" title="Permanent link">&para;</a></h2>
-<p>For your data to be understandable by other researchers (or anyone else,
-really), it helps tremendously to use common data models. Many people
-have already created data models to describe books, people, architecture
-and art, et cetera. However, not everyone describes every item in the same
+<p>For your data to be understandable to other researchers (or anyone else,
+really), it helps to "speak the same language", i.e. use common data models.
+Many people have already created data models to describe for example books,
+people, architecture and art, genes, et cetera.
+However, not everyone describes every item in the same
 way, so you may need to extend or adapt an existing data model.</p>
 <p>There are too many possible models to list here, so we only link to some
 databases that provide overviews of existing models:</p>
@@ -611,13 +741,22 @@ databases that provide overviews of existing models:</p>
 <li><a href="https://fairsharing.org/">FAIRsharing</a> collects standards, databases and policies</li>
 </ul>
 <h2 id="iteratively-create-mappings-and-test-their-correctness">Iteratively create mapping(s) and test their correctness<a class="headerlink" href="#iteratively-create-mappings-and-test-their-correctness" title="Permanent link">&para;</a></h2>
+<p>Use SharePoint's legacy XML export or REST API with Atom XML to get the data.</p>
+<p>Transform the data to the target model using, for example, XSLT or <a href="https://rml.io/">RML</a>.
+Do not try to create a complete mapping in one go, but start simple and
+improve one step at a time.</p>
 <h2 id="perform-the-migration">Perform the migration<a class="headerlink" href="#perform-the-migration" title="Permanent link">&para;</a></h2>
+<p>When you are happy with the results of your mapping and transformation testing,
+do it once more for all data and add metadata about the dataset, including its provenance.
+This is the data that you will publish, archive or maybe continue working on using
+other tools.</p>
 <h2 id="archive-the-data">Archive the data<a class="headerlink" href="#archive-the-data" title="Permanent link">&para;</a></h2>
-<p>See the Research Data Services catalogue for information on data archives.</p>
+<p>See the <a href="https://digitalscholarship.nl/rds/">Research Data Services catalogue</a> for information on data archives.</p>
                 
                   
                 
               
+
               
                 
 
