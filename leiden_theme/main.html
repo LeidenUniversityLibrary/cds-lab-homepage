@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block content %}
+    {% if page and page.meta and page.meta.status and page.meta.status == 'draft' %}
+        <div class="warning-draft"><em>This page is a draft.</em> {% if page.meta.git_revision_date_localized %}Last updated:
+            {{ page.meta.git_revision_date_localized }}
+            {% elif page.meta.revision_date %}
+            Last updated: {{ page.meta.revision_date }}
+            {% endif %}</div>
+    {% endif %}
+    {{ super() }}
+{% endblock %}

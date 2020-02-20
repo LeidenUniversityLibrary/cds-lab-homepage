@@ -1,5 +1,6 @@
 ---
 title: Optical character recognition (OCR)
+status: draft
 ---
 
 Recognise print text in images

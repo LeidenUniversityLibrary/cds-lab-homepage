@@ -4,9 +4,6 @@ status: draft
 author: Ben Companjen
 ---
 
-!!! warning
-    **THIS IS A VERY ROUGH DRAFT; IT MAY NEVER BE ACTUAL POLICY.**
-
 # Introduction
 
 This document should guide people[^1] who want to enrich image-based materials such as photos, paintings and (scanned) texts with descriptive metadata, details, context, or what have you.

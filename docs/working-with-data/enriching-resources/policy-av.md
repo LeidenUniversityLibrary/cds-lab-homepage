@@ -5,8 +5,6 @@ date: 2019-03-06
 author: Ben Companjen
 ---
 
-**THIS IS A VERY ROUGH DRAFT; IT MAY NEVER BE ACTUAL POLICY.**
-
 # Introduction
 
 This document should guide people who want to enrich audio(visual) materials such as videos, films, podcasts with descriptive metadata, details, context, or what have you.

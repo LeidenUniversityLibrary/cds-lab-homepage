@@ -5,10 +5,16 @@ theme:
   name: material
   font: false
   favicon: 'favicon.ico'
+  language: en
+  custom_dir: leiden_theme
+
+extra_css:
+  - 'css/extra.css'
 
 plugins:
   - search
   - htmlproofer
+  - git-revision-date
 
 markdown_extensions:
   - admonition

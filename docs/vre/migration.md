@@ -1,5 +1,6 @@
 ---
 title: The process of migration
+status: draft
 ---
 
 This page describes the general process of moving data out of SharePoint

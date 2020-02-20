@@ -3,8 +3,6 @@ title: Working with (digital) data
 status: draft
 ---
 
-**THIS PAGE IS A DRAFT**
-
 Digital scholarship nearly always involves working with digital data.
 Because *working with* is rather abstract, we often view data as artifacts that you can
 *create*, *process*, *analyse*, *preserve*, *share* and *re-use*.

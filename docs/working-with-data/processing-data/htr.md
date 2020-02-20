@@ -1,5 +1,6 @@
 ---
 title: Handwritten-text recognition (HTR)
+status: draft
 ---
 
 Recognise handwritten text in images

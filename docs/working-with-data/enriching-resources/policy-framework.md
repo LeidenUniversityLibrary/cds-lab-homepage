@@ -1,8 +1,7 @@
 ---
 title: "Enriching Digital Objects: a Policy Framework"
+status: draft
 ---
-
-**THIS IS A VERY ROUGH DRAFT; IT MAY NEVER BE ACTUAL POLICY.**
 
 See the [definitions of objects and enriching](index.md#definitions-of-terms) before reading on.
 
