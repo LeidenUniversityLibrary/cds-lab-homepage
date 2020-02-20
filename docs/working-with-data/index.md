@@ -14,6 +14,11 @@ These activities can be viewed as a cycle, since re-using data can lead to creat
     Virtual Research Environments allow you to work together on a (data) project.
     See [VREs](../vre/index.md) for more information.
 
+## "Collaborative data maintenance"
+
+The [Collaborative Data Patterns](https://collaborative-data.theodi.org/) website contains great
+explanations of things to think of when you work together on a dataset.
+
 # Processing data
 
 # Analysing data
