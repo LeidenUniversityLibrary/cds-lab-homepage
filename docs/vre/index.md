@@ -11,7 +11,7 @@ Leiden University Libraries can do for you.
 
 # Types of VREs
 
-Below are three types of VRE, although many more are available. VRE systems are usually
+Below are a few VRE platforms, although many more are available. VRE systems are usually
 tailored to tasks for specific research, although the generic ones below can be customised for
 many fields.
 
@@ -33,7 +33,13 @@ Nodegoat is an open-source online database system. The CDS does not currently us
 Nodegoat, but it is on our radar.
 The hosted service provided by the creators is free for individual researchers.
 
-# Migrating from a SharePoint VRE
+## Other VRE systems
+
+[Digital Mappa](https://www.digitalmappa.org/)
+
+[Wikibase](https://wikiba.se/)
+
+# Exporting data from a SharePoint VRE for archiving or publication
 
 When a project ends, you usually stop using the virtual research environment
 for working on the project data. That doesn't mean you don't need the data
