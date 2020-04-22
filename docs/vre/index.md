@@ -7,7 +7,7 @@ title: Virtual Research Environments
 See the [Libraries' website on VREs][vre] to learn more about VREs and what
 Leiden University Libraries can do for you.
 
-[vre]: https://www.library.universiteitleiden.nl/research-and-publishing/collaboration-tools
+[vre]: https://www.library.universiteitleiden.nl/researchers/use-of-digital-data/vre
 
 # Types of VREs
 
