@@ -11,7 +11,7 @@ data archive.
 If you have a SharePoint VRE and would like to export your data, please
 [contact the Centre for Digital Scholarship][cds] for information.
 
-[cds]: https://www.library.universiteitleiden.nl/research-and-publishing/centre-for-digital-scholarship
+[cds]: https://www.library.universiteitleiden.nl/about-us/centre-for-digital-scholarship
 
 # Data modelling
 
@@ -43,7 +43,7 @@ databases that provide overviews of existing models:
 
 # Iteratively create mapping(s) and test their correctness
 
-Use SharePoint's legacy XML export or REST API with Atom XML to get the data.
+Use SharePoint's legacy XML export, REST API with Atom XML or download options in the web interface to get the data.
 
 Transform the data to the target model using, for example, XSLT or [RML].
 Do not try to create a complete mapping in one go, but start simple and

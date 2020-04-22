@@ -24,14 +24,18 @@ from Microsoft Access and Microsoft Excel.
 
 ## Omeka S
 
-Omeka S is an open-source content management system for images and other content. It supports IIIF sources
+[Omeka S] is an open-source content management system for images and other content. It supports IIIF sources
 and exports data about items as RDF. The CDS is currently testing Omeka S.
+
+[Omeka S]: https://omeka.org/s/
 
 ## Nodegoat
 
-Nodegoat is an open-source online database system. The CDS does not currently use or support
+[Nodegoat] is an open-source online database system. The CDS does not currently use or support
 Nodegoat, but it is on our radar.
 The hosted service provided by the creators is free for individual researchers.
+
+[Nodegoat]: https://nodegoat.net
 
 ## Other VRE systems
 

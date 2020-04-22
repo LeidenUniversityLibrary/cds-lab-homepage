@@ -29,7 +29,7 @@ but you should be able to use it as inspiration for writing your project proposa
 
 For any questions, please get in touch with the [Centre for Digital Scholarship][cds].
 
-[cds]: https://www.library.universiteitleiden.nl/research-and-publishing/centre-for-digital-scholarship
+[cds]: https://www.library.universiteitleiden.nl/about-us/centre-for-digital-scholarship
 
 # Definitions of terms
 

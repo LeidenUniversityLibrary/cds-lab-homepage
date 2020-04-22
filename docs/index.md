@@ -2,7 +2,7 @@
 title: Welcome to the Centre for Digital Scholarship's Lab
 ---
 
-This server hosts proofs of concept that the <a href="https://www.library.universiteitleiden.nl/research-and-publishing/centre-for-digital-scholarship" target="_blank">Centre for Digital Scholarship</a> (have) created in collaboration with researchers.
+This server hosts proofs of concept that the <a href="https://www.library.universiteitleiden.nl/about-us/centre-for-digital-scholarship" target="_blank">Centre for Digital Scholarship</a> (have) created in collaboration with researchers.
 
 We also provide resources to help you work with (digital) data.
 These resources will not cover every aspect of working with data, although we hope they can get you
