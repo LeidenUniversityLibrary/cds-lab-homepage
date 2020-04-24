@@ -73,7 +73,5 @@ Demonstrations of IIIF functionality using Mirador are hosted at [IIIF demonstra
 
 ## UBL maps in Geoplaza
 
-Leiden University Libraries have collaborated with the Vrije Universiteit
-Amsterdam to show [51 maps from our collections in the Geoplaza portal][ublgeoplaza] (no longer online).
-
-[ublgeoplaza]: https://geoplaza.labs.vu.nl/catalog?f%5bdct_provenance_s%5d%5b%5d=Universitaire+Bibliotheken+Leiden
+Leiden University Libraries collaborated with the Vrije Universiteit
+Amsterdam to show 51 maps from our collections in the Geoplaza portal, but they are no longer online.
