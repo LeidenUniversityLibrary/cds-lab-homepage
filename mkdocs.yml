@@ -41,6 +41,9 @@ nav:
       - 'working-with-data/processing-data/index.md'
       - 'working-with-data/processing-data/ocr.md'
       - 'working-with-data/processing-data/htr.md'
+    - 'Re-using data':
+      - 'working-with-data/reusing-data/index.md'
+      - 'working-with-data/reusing-data/web-scraping.md'
   - 'Enriching Resources':
     - 'working-with-data/enriching-resources/index.md'
     - 'working-with-data/enriching-resources/policy-framework.md'
