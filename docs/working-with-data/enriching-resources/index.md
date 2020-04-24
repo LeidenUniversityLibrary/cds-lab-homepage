@@ -140,7 +140,8 @@ the system(s) you use to create them.
 
 # Storage and publication
 
-As mentioned above, you should ensure your data is stored safely to prevent loss and unauthorised access and changes. See [Data protection](https://www.library.universiteitleiden.nl/research-and-publishing/datamanagement/data-protection) for some pointers.
+As mentioned above, you should ensure your data is stored safely to prevent loss and unauthorised access and changes.
+See [Data protection](https://www.library.universiteitleiden.nl/researchers/data-management/rdm-checklist#working-with-personal-data-and-data-protection) for some pointers.
 
 Ideally your enrichments are available via standard interfaces and protocols as soon as possible after their creation (and possibly validation).
 Even better is when they are available for the long term with *persistent identifiers*

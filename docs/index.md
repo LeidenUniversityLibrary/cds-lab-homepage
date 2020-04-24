@@ -53,7 +53,7 @@ The CDS set up Omeka Classic to support the [Turks, texts and territory project]
 
 [iranproject]: https://www.universiteitleiden.nl/en/research/research-projects/humanities/turks-texts-and-territory
 
-## [Soldaat in Indonesië](https://indonesie.universiteitleiden.nl/start.php)
+## [Soldaat in Indonesië](https://indonesie.universiteitleiden.nl/)
 
 Online research environment for working with ego documents written by soldiers in Indonesia.
 
@@ -74,6 +74,6 @@ Demonstrations of IIIF functionality using Mirador are hosted at [IIIF demonstra
 ## UBL maps in Geoplaza
 
 Leiden University Libraries have collaborated with the Vrije Universiteit
-Amsterdam to show [51 maps from our collections in the Geoplaza portal][ublgeoplaza].
+Amsterdam to show [51 maps from our collections in the Geoplaza portal][ublgeoplaza] (no longer online).
 
 [ublgeoplaza]: https://geoplaza.labs.vu.nl/catalog?f%5bdct_provenance_s%5d%5b%5d=Universitaire+Bibliotheken+Leiden
