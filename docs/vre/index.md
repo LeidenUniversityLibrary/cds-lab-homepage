@@ -39,9 +39,13 @@ The hosted service provided by the creators is free for individual researchers.
 
 ## Other VRE systems
 
-[Digital Mappa](https://www.digitalmappa.org/)
+[Digital Mappa](https://www.digitalmappa.org/) and [Recogito](https://recogito.pelagios.org/)
+allow flexible annotation of documents and images that are available via IIIF.
 
-[Wikibase](https://wikiba.se/)
+[Wikibase](https://wikiba.se/) is the underlying system that powers [Wikidata](https://www.wikidata.org),
+but it can also be used without any link to any Wikimedia projects.
+Wikibase allows collaborative data management in terms of (qualified) statements about things,
+supported by references.
 
 # Exporting data from a SharePoint VRE for archiving or publication
 
