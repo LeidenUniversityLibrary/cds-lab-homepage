@@ -62,7 +62,7 @@ Online research environment for working with ego documents written by soldiers i
 The International Image Interoperability Framework (IIIF) portal for Leiden University aims to help
 users access the UBL digital collections via the various IIIF APIs and services based on the IIIF.
 
-## [Jan Wolkers puzzles](https://iiif.universiteitleiden.nl/view/puzzles.html)
+## [Jan Wolkers puzzles](https://lab.library.universiteitleiden.nl/iiif-demo/puzzles.html)
 
 The CDS used existing IIIF software to make a few of Jan Wolkers's works available as puzzles.
 Read more about this on the short [project page](projects/wolkers-puzzles.md).
