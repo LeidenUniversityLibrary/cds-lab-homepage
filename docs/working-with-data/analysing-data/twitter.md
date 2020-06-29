@@ -9,6 +9,13 @@ population think about certain topics.
 
 For business and ethical reasons, Twitter limits (free) access to the live stream of all tweets
 and to the full archive of all tweets published since Twitter's start.
+However, other ways of getting tweets are available.
+
+# Get started
+
+For a beginner's tutorial to getting tweets and analysing them, please see:
+
+Brad Rittenhouse, Ximin Mi, and Courtney Allen, "Beginner's Guide to Twitter Data," *The Programming Historian* 8 (2019), <https://doi.org/10.46430/phen0083>.
 
 # Ethics and Terms of use
 
