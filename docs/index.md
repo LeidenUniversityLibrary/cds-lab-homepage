@@ -61,7 +61,7 @@ Online research environment for working with ego documents written by soldiers i
 
 The International Image Interoperability Framework (IIIF) portal for Leiden University aims to help
 users access the UBL digital collections via the various IIIF APIs and services based on the IIIF.
-This guide will be moved to a different form and location soon.
+This guide has been moved to [/iiif-docs](https://lab.library.universiteitleiden.nl/iiif-docs/).
 
 ## [Jan Wolkers puzzles](https://lab.library.universiteitleiden.nl/iiif-demo/puzzles.html)
 
