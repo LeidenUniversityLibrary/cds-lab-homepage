@@ -22,6 +22,20 @@ many fields.
 lists, among other features. The lists functionality is like a database and can be accessed
 from Microsoft Access and Microsoft Excel.
 
+## GitLab
+
+[GitLab](https://about.gitlab.com/) is an online version control system based on [git][].
+The University hosts a GitLab service that you can use after logging in with your ULCN credentials:
+<https://gitlab.services.universiteitleiden.nl/>.
+
+Git is most often used for versioning and sharing software source code, but it works with
+all text-based files and binary files too (although for large binary files you should look into
+[git-lfs](https://git-lfs.github.com/)). It requires a specific way of thinking about versioning to
+unleash all of git's functionality, but GitLab allows you to perform many operations through its web
+interface as well.
+
+[git]: https://git-scm.com
+
 ## Omeka S
 
 [Omeka S] is an open-source content management system for images and other content. It supports IIIF sources
