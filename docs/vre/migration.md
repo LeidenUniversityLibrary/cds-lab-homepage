@@ -17,7 +17,8 @@ If you have a SharePoint VRE and would like to export your data, please
 
 Unless you only used the VRE for sharing files that are read and edited
 outside the VRE, you probably have information that is managed directly
-in SharePoint. The data model explains what the information is about.
+in SharePoint. Such data may be stored in lists.
+The data model explains what the information is about.
 
 Some projects already started with a highly structured data model, other
 projects need more help to reshape their data into models that are more
@@ -60,6 +61,8 @@ other tools.
 
 # Archive the data
 
-See the [Research Data Services catalogue][rds] for information on data archives.
+There are many services for archiving datasets, usually known as data archives.
+See the [Research Data Services catalogue][rds] for information on data archives
+that we know of (though this catalogue is incomplete and may be out of date).
 
 [rds]: https://digitalscholarship.nl/rds/
