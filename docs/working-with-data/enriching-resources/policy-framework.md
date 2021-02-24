@@ -31,7 +31,7 @@ This reference architecture is aimed at cultural heritage institutions,
 but this specific goal is clearly connected to our aim – to allow people
 to enrich digital objects.
 
-[dera]: https://www.netwerkdigitaalerfgoed.nl/wp-content/uploads/2018/11/181107-DERA2.0_def.pdf
+[dera]: https://netwerkdigitaalerfgoed.nl/wp-content/uploads/2020/12/200310_DERA-3.0_Netwerk-Digitaal-Erfgoed.pdf
 
 ## Links between objects and enrichments
 
