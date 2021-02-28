@@ -2,11 +2,15 @@
 title: Welcome to the Centre for Digital Scholarship's Lab
 ---
 
-This server hosts proofs of concept that the <a href="https://www.library.universiteitleiden.nl/about-us/centre-for-digital-scholarship" target="_blank">Centre for Digital Scholarship</a> (have) created in collaboration with researchers.
+This server hosts proofs of concept that the
+[Centre for Digital Scholarship][cds] (have) created in collaboration with
+researchers.
+
+[cds]: https://www.library.universiteitleiden.nl/about-us/centre-for-digital-scholarship
 
 We also provide resources to help you work with (digital) data.
-These resources will not cover every aspect of working with data, although we hope they can get you
-started.
+These resources will not cover every aspect of working with data,
+although we hope they can get you started.
 
 # Working with (digital) data
 
@@ -18,12 +22,15 @@ These are some example projects the CDS is working on.
 
 ## [Abnormal Hieratic Global Portal](abnormalhieratic/)
 
-Community resource for studying Abnormal Hieratic manuscripts, developed in cooperation with the Faculty of Humanities.
-The [project page](projects/abnormal-hieratic.md) has more information on the technical components.
+Community resource for studying Abnormal Hieratic manuscripts, developed in
+cooperation with the Faculty of Humanities.
+The [project page](projects/abnormal-hieratic.md) has more information on the
+technical components.
 
 ## [Lydgate](lydgate/)
 
-Online edition of Leiden University Libraries' edition of the Lydgate manuscript, edited by students.
+Online edition of Leiden University Libraries' edition of the Lydgate
+manuscript, edited by students.
 
 ## [Digital Manuscripts in the Classroom](digmanclass/)
 
@@ -34,8 +41,9 @@ online exploration of the manuscripts by theme.
 
 More details are available on the [project page](projects/digmanclass.md).
 
-!!! note
-    While this website is being developed, we require a password to get to the website.
+## [Medieval Palaeography](https://paleo.digitalscholarship.nl/)
+
+## [Mouse and Manuscript](https://mouse.digitalscholarship.nl/)
 
 ## [FromThePage transcription platform](https://transcription.digitalscholarship.nl/)
 
@@ -55,17 +63,20 @@ The CDS set up Omeka Classic to support the [Turks, texts and territory project]
 
 ## [Soldaat in Indonesië](https://indonesie.universiteitleiden.nl/)
 
-Online research environment for working with ego documents written by soldiers in Indonesia.
+Online research environment for working with ego documents written by soldiers
+in Indonesia.
 
 ## IIIF portal
 
-The International Image Interoperability Framework (IIIF) portal for Leiden University aims to help
-users access the UBL digital collections via the various IIIF APIs and services based on the IIIF.
+The International Image Interoperability Framework (IIIF) portal for Leiden
+University aims to help users access the UBL digital collections via the
+various IIIF APIs and services based on the IIIF.
 This guide has been moved to [/iiif-docs](https://lab.library.universiteitleiden.nl/iiif-docs/).
 
 ## [Jan Wolkers puzzles](https://lab.library.universiteitleiden.nl/iiif-demo/puzzles.html)
 
-The CDS used existing IIIF software to make a few of Jan Wolkers's works available as puzzles.
+The CDS used existing IIIF software to make a few of Jan Wolkers's works
+available as puzzles.
 Read more about this on the short [project page](projects/wolkers-puzzles.md).
 
 ## Mirador demonstrations
@@ -75,4 +86,5 @@ Demonstrations of IIIF functionality using Mirador are hosted at [IIIF demonstra
 ## UBL maps in Geoplaza
 
 Leiden University Libraries collaborated with the Vrije Universiteit
-Amsterdam to show 51 maps from our collections in the Geoplaza portal, but they are no longer online.
+Amsterdam to show 51 maps from our collections in the Geoplaza portal, but they
+are no longer online.
