@@ -893,7 +893,7 @@
               
     
         <div class="warning-draft"><em>This page is a draft.</em> 
-            Last updated: 2020-02-20
+            Last updated: 2021-02-24
             </div>
     
     
@@ -902,30 +902,67 @@
                   <h1>Policies for enriching audio-visual materials</h1>
                 
                 <h2 id="introduction">Introduction<a class="headerlink" href="#introduction" title="Permanent link">&para;</a></h2>
-<p>This document should guide people who want to enrich audio(visual) materials such as videos, films, podcasts with descriptive metadata, details, context, or what have you.</p>
-<p>The policies in this document are (somewhat) concrete recommendations for implementing the guiding principles in the <a href="../policy-framework/">Enrichment Policy Framework</a>. Both the framework and the policies in this document are based on the <a href="https://www.bibliotheek.universiteitleiden.nl/binaries/content/assets/ul2staff/reglementen/onderzoek/regeling-datamanagement-universiteit-leiden">Leiden University research data management policy framework</a>.</p>
+<p>This document should guide people who want to enrich audio(visual) materials
+such as videos, films, podcasts with descriptive metadata, details, context,
+or what have you.</p>
+<p>The policies in this document are (somewhat) concrete recommendations for
+implementing the guiding principles in the
+<a href="../policy-framework/">Enrichment Policy Framework</a>.
+Both the framework and the policies in this document are based on the
+<a href="https://www.library.universiteitleiden.nl/binaries/content/assets/ul2ub/research--publish/research-data-management-regulations-leiden-university_def.pdf">Leiden University research data management policy framework</a>.</p>
 <h2 id="policies">Policies<a class="headerlink" href="#policies" title="Permanent link">&para;</a></h2>
 <h3 id="use-iiif-and-the-web-annotation-framework-if-possible">Use IIIF and the Web Annotation Framework if possible<a class="headerlink" href="#use-iiif-and-the-web-annotation-framework-if-possible" title="Permanent link">&para;</a></h3>
-<p>The <a href="https://iiif.io/">International Image Interoperability Framework (IIIF)</a> is a community-based set of standards for publishing, presenting, describing and annotating images on the Web – and AV resources as well, as of Presentation API 3.0. IIIF relies heavily on the <a href="https://www.w3.org/TR/annotation-model/">Web Annotation Framework</a>, a W3C standard for annotating Web resources.</p>
+<p>The <a href="https://iiif.io/">International Image Interoperability Framework (IIIF)</a>
+is a community-based set of standards for publishing, presenting, describing
+and annotating images on the Web – and AV resources as well, as of
+[Presentation API 3.0].
+IIIF relies heavily on the <a href="https://www.w3.org/TR/annotation-model/">Web Annotation Framework</a>, a W3C standard for
+annotating Web resources.</p>
 <h4 id="create-abstract-resources-to-annotate">Create abstract resources to annotate<a class="headerlink" href="#create-abstract-resources-to-annotate" title="Permanent link">&para;</a></h4>
-<p>Use IIIF Canvases for pages/posters and annotate those instead of AV resources themselves. This is standard practice for IIIF-based resources.</p>
+<p>Use IIIF Canvases for pages/posters and annotate those instead of AV resources
+themselves.
+This is standard practice for IIIF-based resources.</p>
 <h4 id="dont-copy-if-not-necessary-always-annotate-the-original">Don't copy if not necessary, always annotate the original<a class="headerlink" href="#dont-copy-if-not-necessary-always-annotate-the-original" title="Permanent link">&para;</a></h4>
-<p>If you want to enrich AV resources provided online by trustworthy institutions you don't need to copy the resources. It is okay to keep a backup copy, but connect enrichments to the originals to make them as useful as possible.</p>
+<p>If you want to enrich AV resources provided online by trustworthy institutions
+you don't need to copy the resources.
+It is okay to keep a backup copy, but connect enrichments to the originals to
+make them as useful as possible.</p>
 <h4 id="add-provenance-to-annotations">Add provenance to annotations<a class="headerlink" href="#add-provenance-to-annotations" title="Permanent link">&para;</a></h4>
-<p>The Web Annotation Framework includes ways to attribute the creator(s) of each annotation, the time the annotation was created/generated, and the time(s) the annotation was modified. The tool(s) you use to annotate should help you keep track of your own work so that you can be credited for it, and held accountable.</p>
+<p>The Web Annotation Framework includes ways to attribute the creator(s) of each
+annotation, the time the annotation was created/generated, and the time(s) the
+annotation was modified.
+The tool(s) you use to annotate should help you keep track of your own work so
+that you can be credited for it, and held accountable.</p>
 <h3 id="keep-provenance-and-licenses-of-source-resources">Keep provenance and licenses of source resources<a class="headerlink" href="#keep-provenance-and-licenses-of-source-resources" title="Permanent link">&para;</a></h3>
-<p>Explain how the set of resources you selected for enrichment was created. This helps people assess how complete your set is and how representative it is among all similar resources.</p>
-<p>If you have copies of resources, keep the licence conditions and creator information (and all other relevant provenance) close and preferably linked to the resources. You need to cite and deposit your data and this will help determine if and how resources can be shared.</p>
+<p>Explain how the set of resources you selected for enrichment was created.
+This helps people assess how complete your set is and how representative it is
+among all similar resources.</p>
+<p>If you have copies of resources, keep the licence conditions and creator
+information (and all other relevant provenance) close and preferably linked to
+the resources.
+You need to cite and deposit your data and this will help determine if and how
+resources can be shared.</p>
 <h3 id="store-enrichments-in-a-trustworthy-data-repository">Store enrichments in a trustworthy data repository<a class="headerlink" href="#store-enrichments-in-a-trustworthy-data-repository" title="Permanent link">&para;</a></h3>
-<p>If using IIIF and e.g. (some annotation editor for AV resources) to create and save annotations, make sure the annotations are stored on a server that securely stores them and that creates backups. The server should store the provenance of each annotation too and if necessary, all versions of annotations.</p>
+<p>If using IIIF and e.g. (some annotation editor for AV resources) to create and
+save annotations, make sure the annotations are stored on a server that
+securely stores them and that creates backups.
+The server should store the provenance of each annotation too and if necessary,
+all versions of annotations.</p>
 <h3 id="identify-identify-identify">Identify, identify, identify<a class="headerlink" href="#identify-identify-identify" title="Permanent link">&para;</a></h3>
 <p>Make sure everything has identifiers, preferably persistent identifiers (PIDs).
-You should use PIDs for AV resources you annotate, and the server that stores your annotations should create PIDs for each (version of an) annotation.
-This allows users to connect the right versions of annotations to the right versions of resources and recreate the context of the annotation at the time of its creation.</p>
+You should use PIDs for AV resources you annotate, and the server that stores
+your annotations should create PIDs for each (version of an) annotation.
+This allows users to connect the right versions of annotations to the right
+versions of resources and recreate the context of the annotation at the time
+of its creation.</p>
 <h2 id="projects-and-tools">Projects and Tools<a class="headerlink" href="#projects-and-tools" title="Permanent link">&para;</a></h2>
-<p><a href="https://github.com/CLARIAH/video-annotation-interoperability">CLARIAH video annotation interoperability</a>: discussion around Web Annotations for videos.</p>
-<p><a href="http://mediaecology.dartmouth.edu/wp/projects/technology/the-semantic-annotation-tool">Semantic Annotation Tool</a>: front-end (<a href="https://github.com/colejd/Waldorf">Waldorf.js</a>) and back-end (<a href="https://github.com/VEMILab/Statler">Statler</a>) that work with HTML5, JavaScript and Web Annotations.</p>
-<p><a href="https://tla.mpi.nl/tools/tla-tools/elan/">ELAN</a>: offline annotator that creates EAF files and various other annotation formats and connects to online knowledge bases for data categories (like CLARIN).</p>
+<p><a href="https://github.com/CLARIAH/video-annotation-interoperability">CLARIAH video annotation interoperability</a>: discussion around Web
+Annotations for videos.</p>
+<p><a href="http://mediaecology.dartmouth.edu/wp/projects/technology/the-semantic-annotation-tool">Semantic Annotation Tool</a>: front-end (<a href="https://github.com/colejd/Waldorf">Waldorf.js</a> and back-end
+(<a href="https://github.com/VEMILab/Statler">Statler</a> that work with HTML5, JavaScript and Web Annotations.</p>
+<p><a href="https://tla.mpi.nl/tools/tla-tools/elan/">ELAN</a>: offline annotator that creates EAF files and various other annotation
+formats and connects to online knowledge bases for data categories (like
+CLARIN).</p>
 <p><a href="https://filmcolors.org/2018/03/08/vian/">VIAN</a>: not generally available yet.</p>
                 
                   
@@ -935,7 +972,7 @@ This allows users to connect the right versions of annotations to the right vers
 <div class="md-source-date">
   <small>
     
-      Last update: 2020-02-20
+      Last update: 2021-02-24
     
   </small>
 </div>
