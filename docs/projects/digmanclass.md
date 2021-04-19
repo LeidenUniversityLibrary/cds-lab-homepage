@@ -10,7 +10,7 @@ allows easy integration of a deep-zoom viewer in the website.
 
 The website is created using the [Jekyll] static site generator.
 
-[web]: https://lab.library.universiteitleiden.nl/digmanclass/
+[web]: https://digmanclass.universiteitleiden.nl/
 [IIIF]: https://iiif.io
 [Jekyll]: https://jekyllrb.com
 [dc]: https://digitalcollections.universiteitleiden.nl/

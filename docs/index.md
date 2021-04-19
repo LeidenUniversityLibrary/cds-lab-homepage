@@ -32,7 +32,7 @@ technical components.
 Online edition of Leiden University Libraries' edition of the Lydgate
 manuscript, edited by students.
 
-## [Digital Manuscripts in the Classroom](digmanclass/)
+## [Digital Manuscripts in the Classroom](https://digmanclass.universiteitleiden.nl/)
 
 Leiden University Libraries have a great collection of manuscripts,
 but it is infeasible to use many of them for education, because they
