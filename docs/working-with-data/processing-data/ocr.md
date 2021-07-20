@@ -13,6 +13,7 @@ However, it is not cheap.
 # Adobe Acrobat
 
 Adobe Acrobat has OCR capabilities for PDFs.
+However, not all languages are supported (e.g. Arabic).
 
 # Tesseract
 
@@ -21,6 +22,15 @@ It has support for many languages, can be (re)trained for other languages
 and achieves good results.
 It requires a little knowledge of the command line and
 supports only a limited number of image formats for inputs.
+
+# OCRmyPDF
+
+For PDFs without a text layer, [OCRmyPDF] is a very useful toolkit.
+It is a command-line tool that uses Tesseract under the hood,
+as well as various preprocessing tools to straighten (deskew) the text lines
+and removing noise – if you want it to.
+
+[OCRmyPDF]: https://ocrmypdf.readthedocs.io/
 
 # Kraken / Ocropy
 
