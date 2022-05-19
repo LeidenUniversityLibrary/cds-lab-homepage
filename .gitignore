@@ -4,3 +4,4 @@ _site
 .vscode/
 site/
 site.zip
+.DS_Store
