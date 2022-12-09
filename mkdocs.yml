@@ -2,11 +2,11 @@ site_name: CDS Lab
 site_url: 'https://lab.library.universiteitleiden.nl/'
 remote_branch: rendered
 theme:
-  name: material
+  name: ubleiden
   font: false
-  favicon: 'favicon.ico'
+  # favicon: 'favicon.ico'
   language: en
-  custom_dir: leiden_theme
+  # custom_dir: leiden_theme
 
 extra_css:
   - 'css/extra.css'
