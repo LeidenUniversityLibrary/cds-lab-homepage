@@ -1,7 +1,7 @@
 # CDS Lab Homepage
 
 This repository contains the source files for the [CDS Lab (homepage)](https://lab.library.universiteitleiden.nl/).
-The website is built with [MkDocs](https://mkdocs.org) plus plugins and a theme.
+The website is built with [MkDocs](https://www.mkdocs.org) plus plugins and a theme.
 
 ## Build locally
 

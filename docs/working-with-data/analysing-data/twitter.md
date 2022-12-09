@@ -21,7 +21,7 @@ Brad Rittenhouse, Ximin Mi, and Courtney Allen, "Beginner's Guide to Twitter Dat
 
 As a general note: please consider the ethics of using tweets, as well as Twitter's terms of use.
 Many Twitter users do not regard publishing tweets to include consenting to all forms of research.
-The University of Sheffield notes in [Research Ethics Policy Note no. 14](https://www.sheffield.ac.uk/polopoly_fs/1.670954!/file/Research-Ethics-Policy-Note-14.pdf)
+The University of Sheffield notes in [Research Ethics Policy Note no. 14](https://www.sheffield.ac.uk/media/29459/download?attachment)
 that social media data is considered research on human subjects.
 For politicians there are probably other considerations to include.
 

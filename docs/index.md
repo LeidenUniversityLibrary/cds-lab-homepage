@@ -18,16 +18,16 @@ Learn about [working with (digital) data](working-with-data/index.md).
 
 # Current projects
 
-These are some example projects the CDS is working on.
+These are some example projects the CDS has worked on.
 
-## [Abnormal Hieratic Global Portal](abnormalhieratic/)
+## [Abnormal Hieratic Global Portal](https://lab.library.universiteitleiden.nl/abnormalhieratic/)
 
 Community resource for studying Abnormal Hieratic manuscripts, developed in
 cooperation with the Faculty of Humanities.
 The [project page](projects/abnormal-hieratic.md) has more information on the
 technical components.
 
-## [Lydgate](lydgate/)
+## [Lydgate](https://lab.library.universiteitleiden.nl/lydgate/)
 
 Online edition of Leiden University Libraries' edition of the Lydgate
 manuscript, edited by students.
@@ -81,7 +81,7 @@ Read more about this on the short [project page](projects/wolkers-puzzles.md).
 
 ## Mirador demonstrations
 
-Demonstrations of IIIF functionality using Mirador are hosted at [IIIF demonstrations](iiif-demo/).
+Demonstrations of IIIF functionality using Mirador are hosted at [IIIF demonstrations](https://lab.library.universiteitleiden.nl/iiif-demo/).
 
 ## UBL maps in Geoplaza
 

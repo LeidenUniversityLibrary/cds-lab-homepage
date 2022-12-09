@@ -17,7 +17,7 @@ implementing the guiding principles in the
 Both the framework and the policies in this document are based on the
 [Leiden University research data management policy framework][lu-policy].
 
-[lu-policy]: https://www.library.universiteitleiden.nl/binaries/content/assets/ul2ub/research--publish/research-data-management-regulations-leiden-university_def.pdf
+[lu-policy]: https://www.library.universiteitleiden.nl/binaries/content/assets/ul2ub/research--publish/research-data-management-regulations-leiden-university.pdf
 
 # Policies
 
@@ -26,10 +26,11 @@ Both the framework and the policies in this document are based on the
 The [International Image Interoperability Framework (IIIF)](https://iiif.io/)
 is a community-based set of standards for publishing, presenting, describing
 and annotating images on the Web – and AV resources as well, as of
-[Presentation API 3.0].
+[Presentation API 3.0][prezi3].
 IIIF relies heavily on the [Web Annotation Framework][wam], a W3C standard for
 annotating Web resources.
 
+[prezi3]: https://iiif.io/api/presentation/3.0/
 [wam]: https://www.w3.org/TR/annotation-model/
 
 ### Create abstract resources to annotate
