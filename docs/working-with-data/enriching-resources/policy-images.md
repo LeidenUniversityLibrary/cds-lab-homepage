@@ -16,7 +16,7 @@ implementing the guiding principles in the
 Both the framework and the policies in this document are based on the
 [Leiden University research data management policy framework][lu-policy].
 
-[lu-policy]: https://www.library.universiteitleiden.nl/binaries/content/assets/ul2ub/research--publish/research-data-management-regulations-leiden-university_def.pdf
+[lu-policy]: https://www.library.universiteitleiden.nl/binaries/content/assets/ul2ub/research--publish/research-data-management-regulations-leiden-university.pdf
 
 # Policies
 
