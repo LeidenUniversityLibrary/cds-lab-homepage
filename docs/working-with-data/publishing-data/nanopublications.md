@@ -14,5 +14,5 @@ Although nanopubs can be distributed as files, there is an elaborate system
 of applications to help create nanopubs and server applications to publish
 them.
 
-[Nanopublications]: http://nanopub.org
+[Nanopublications]: https://nanopub.net
 [RDF]: https://www.w3.org/TR/rdf11-concepts/
