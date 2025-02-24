@@ -14,7 +14,8 @@ extra_css:
 plugins:
   - search
   - htmlproofer
-  - git-revision-date
+  - git-revision-date-localized:
+      type: iso_datetime
 
 markdown_extensions:
   - admonition
