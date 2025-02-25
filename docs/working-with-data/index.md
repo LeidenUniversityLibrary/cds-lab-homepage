@@ -13,7 +13,7 @@ There are various other cycles that are used to guide data management,
 discussed by Alex Ball in [Review of Data Management Lifecycle Models (2012)][ball].
 
 [ukdsc]: https://www.ukdataservice.ac.uk/manage-data/lifecycle.aspx
-[ball]: http://opus.bath.ac.uk/28587/
+[ball]: https://researchportal.bath.ac.uk/en/publications/review-of-data-management-lifecycle-models
 
 # Creating data
 

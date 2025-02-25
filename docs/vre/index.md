@@ -4,10 +4,8 @@ title: Virtual Research Environments
 
 # What is a Virtual Research Environment (VRE)?
 
-See the [Libraries' website on VREs][vre] to learn more about VREs and what
-Leiden University Libraries can do for you.
-
-[vre]: https://www.library.universiteitleiden.nl/researchers/use-of-digital-data/vre
+A Virtual Research Environment is an online system that supports research tasks,
+specifically collecting, analysing and sharing data in a way that fits the project.
 
 # Types of VREs
 
@@ -17,7 +15,7 @@ many fields.
 
 ## SharePoint
 
-[Library-managed VREs][vre] are based on Microsoft SharePoint. They allow collaborating on
+The Libraries supported VREs that were based on Microsoft SharePoint. They allow collaborating on
 (office) documents, sharing files, and storing information in (a collection of interlinked)
 lists, among other features. The lists functionality is like a database and can be accessed
 from Microsoft Access and Microsoft Excel.
@@ -25,7 +23,8 @@ from Microsoft Access and Microsoft Excel.
 ## GitLab
 
 [GitLab](https://about.gitlab.com/) is an online version control system based on [git][].
-The University hosts a GitLab service that you can use after logging in with your ULCN credentials:
+The University hosts a GitLab service that you can use from the university network or EduVPN
+after logging in with your ULCN credentials:
 <https://gitlab.services.universiteitleiden.nl/>.
 
 Git is most often used for versioning and sharing software source code, but it works with

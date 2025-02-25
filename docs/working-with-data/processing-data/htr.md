@@ -35,5 +35,5 @@ part of the [PSL Scripta] project.
 Permission from the project partners is needed to use the platform,
 or you need to set up your own service.
 
-[eScriptorium]: https://escriptorium.fr/
+[eScriptorium]: https://msia.escriptorium.fr/
 [PSL Scripta]: https://www.psl.eu/en/scripta
