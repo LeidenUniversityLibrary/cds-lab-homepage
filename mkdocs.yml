@@ -13,7 +13,9 @@ extra_css:
 
 plugins:
   - search
-  - htmlproofer
+  - htmlproofer:
+      ignore_urls:
+        - https://gitlab.services.universiteitleiden.nl/
   - git-revision-date-localized:
       type: iso_datetime
 
