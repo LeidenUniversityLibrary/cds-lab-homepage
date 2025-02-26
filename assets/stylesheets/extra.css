@@ -16,3 +16,7 @@
   background-color: #7f88ab;
   color: #ffffff;
 }
+
+.warning-draft {
+  font-weight: bold;
+}
