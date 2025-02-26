@@ -4,12 +4,7 @@ remote_branch: rendered
 theme:
   name: ubleiden
   font: false
-  # favicon: 'favicon.ico'
   language: en
-  # custom_dir: leiden_theme
-
-extra_css:
-  - 'css/extra.css'
 
 plugins:
   - search
